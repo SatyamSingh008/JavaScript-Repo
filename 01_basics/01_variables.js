@@ -8,5 +8,6 @@ let accountnumber;
 console.log(accountId);
 console.table([accountId,accountEmail,accountPassword,accountCity,accountnumber])
 
+/* prefer not use var coz of blockscope and functional scope*/
 
 
